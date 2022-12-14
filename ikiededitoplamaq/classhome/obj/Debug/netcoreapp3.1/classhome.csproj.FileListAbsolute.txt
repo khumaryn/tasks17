@@ -1,0 +1,28 @@
+C:\Users\Hp\source\repos\classhome\classhome\bin\Debug\netcoreapp3.1\classhome.exe
+C:\Users\Hp\source\repos\classhome\classhome\bin\Debug\netcoreapp3.1\classhome.deps.json
+C:\Users\Hp\source\repos\classhome\classhome\bin\Debug\netcoreapp3.1\classhome.runtimeconfig.json
+C:\Users\Hp\source\repos\classhome\classhome\bin\Debug\netcoreapp3.1\classhome.runtimeconfig.dev.json
+C:\Users\Hp\source\repos\classhome\classhome\bin\Debug\netcoreapp3.1\classhome.dll
+C:\Users\Hp\source\repos\classhome\classhome\bin\Debug\netcoreapp3.1\classhome.pdb
+C:\Users\Hp\source\repos\classhome\classhome\obj\Debug\netcoreapp3.1\classhome.csproj.AssemblyReference.cache
+C:\Users\Hp\source\repos\classhome\classhome\obj\Debug\netcoreapp3.1\classhome.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp\source\repos\classhome\classhome\obj\Debug\netcoreapp3.1\classhome.AssemblyInfoInputs.cache
+C:\Users\Hp\source\repos\classhome\classhome\obj\Debug\netcoreapp3.1\classhome.AssemblyInfo.cs
+C:\Users\Hp\source\repos\classhome\classhome\obj\Debug\netcoreapp3.1\classhome.csproj.CoreCompileInputs.cache
+C:\Users\Hp\source\repos\classhome\classhome\obj\Debug\netcoreapp3.1\classhome.dll
+C:\Users\Hp\source\repos\classhome\classhome\obj\Debug\netcoreapp3.1\classhome.pdb
+C:\Users\Hp\source\repos\classhome\classhome\obj\Debug\netcoreapp3.1\classhome.genruntimeconfig.cache
+C:\Users\Hp\OneDrive\Desktop\c# task\13.12.2022 task1\classhome\bin\Debug\netcoreapp3.1\classhome.exe
+C:\Users\Hp\OneDrive\Desktop\c# task\13.12.2022 task1\classhome\bin\Debug\netcoreapp3.1\classhome.deps.json
+C:\Users\Hp\OneDrive\Desktop\c# task\13.12.2022 task1\classhome\bin\Debug\netcoreapp3.1\classhome.runtimeconfig.json
+C:\Users\Hp\OneDrive\Desktop\c# task\13.12.2022 task1\classhome\bin\Debug\netcoreapp3.1\classhome.runtimeconfig.dev.json
+C:\Users\Hp\OneDrive\Desktop\c# task\13.12.2022 task1\classhome\bin\Debug\netcoreapp3.1\classhome.dll
+C:\Users\Hp\OneDrive\Desktop\c# task\13.12.2022 task1\classhome\bin\Debug\netcoreapp3.1\classhome.pdb
+C:\Users\Hp\OneDrive\Desktop\c# task\13.12.2022 task1\classhome\obj\Debug\netcoreapp3.1\classhome.csproj.AssemblyReference.cache
+C:\Users\Hp\OneDrive\Desktop\c# task\13.12.2022 task1\classhome\obj\Debug\netcoreapp3.1\classhome.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp\OneDrive\Desktop\c# task\13.12.2022 task1\classhome\obj\Debug\netcoreapp3.1\classhome.AssemblyInfoInputs.cache
+C:\Users\Hp\OneDrive\Desktop\c# task\13.12.2022 task1\classhome\obj\Debug\netcoreapp3.1\classhome.AssemblyInfo.cs
+C:\Users\Hp\OneDrive\Desktop\c# task\13.12.2022 task1\classhome\obj\Debug\netcoreapp3.1\classhome.csproj.CoreCompileInputs.cache
+C:\Users\Hp\OneDrive\Desktop\c# task\13.12.2022 task1\classhome\obj\Debug\netcoreapp3.1\classhome.dll
+C:\Users\Hp\OneDrive\Desktop\c# task\13.12.2022 task1\classhome\obj\Debug\netcoreapp3.1\classhome.pdb
+C:\Users\Hp\OneDrive\Desktop\c# task\13.12.2022 task1\classhome\obj\Debug\netcoreapp3.1\classhome.genruntimeconfig.cache
