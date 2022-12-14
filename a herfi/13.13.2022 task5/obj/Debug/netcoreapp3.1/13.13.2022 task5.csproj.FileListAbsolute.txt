@@ -1,0 +1,14 @@
+C:\Users\Hp\OneDrive\Desktop\c# task\13.13.2022 task5\13.13.2022 task5\bin\Debug\netcoreapp3.1\13.13.2022 task5.exe
+C:\Users\Hp\OneDrive\Desktop\c# task\13.13.2022 task5\13.13.2022 task5\bin\Debug\netcoreapp3.1\13.13.2022 task5.deps.json
+C:\Users\Hp\OneDrive\Desktop\c# task\13.13.2022 task5\13.13.2022 task5\bin\Debug\netcoreapp3.1\13.13.2022 task5.runtimeconfig.json
+C:\Users\Hp\OneDrive\Desktop\c# task\13.13.2022 task5\13.13.2022 task5\bin\Debug\netcoreapp3.1\13.13.2022 task5.runtimeconfig.dev.json
+C:\Users\Hp\OneDrive\Desktop\c# task\13.13.2022 task5\13.13.2022 task5\bin\Debug\netcoreapp3.1\13.13.2022 task5.dll
+C:\Users\Hp\OneDrive\Desktop\c# task\13.13.2022 task5\13.13.2022 task5\bin\Debug\netcoreapp3.1\13.13.2022 task5.pdb
+C:\Users\Hp\OneDrive\Desktop\c# task\13.13.2022 task5\13.13.2022 task5\obj\Debug\netcoreapp3.1\13.13.2022 task5.csproj.AssemblyReference.cache
+C:\Users\Hp\OneDrive\Desktop\c# task\13.13.2022 task5\13.13.2022 task5\obj\Debug\netcoreapp3.1\13.13.2022 task5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp\OneDrive\Desktop\c# task\13.13.2022 task5\13.13.2022 task5\obj\Debug\netcoreapp3.1\13.13.2022 task5.AssemblyInfoInputs.cache
+C:\Users\Hp\OneDrive\Desktop\c# task\13.13.2022 task5\13.13.2022 task5\obj\Debug\netcoreapp3.1\13.13.2022 task5.AssemblyInfo.cs
+C:\Users\Hp\OneDrive\Desktop\c# task\13.13.2022 task5\13.13.2022 task5\obj\Debug\netcoreapp3.1\13.13.2022 task5.csproj.CoreCompileInputs.cache
+C:\Users\Hp\OneDrive\Desktop\c# task\13.13.2022 task5\13.13.2022 task5\obj\Debug\netcoreapp3.1\13.13.2022 task5.dll
+C:\Users\Hp\OneDrive\Desktop\c# task\13.13.2022 task5\13.13.2022 task5\obj\Debug\netcoreapp3.1\13.13.2022 task5.pdb
+C:\Users\Hp\OneDrive\Desktop\c# task\13.13.2022 task5\13.13.2022 task5\obj\Debug\netcoreapp3.1\13.13.2022 task5.genruntimeconfig.cache
