@@ -1,0 +1,5 @@
+C:\Users\Hp\OneDrive\Desktop\c# task\15.15.2022 task15\15.15.2022 task15\obj\Debug\netcoreapp3.1\15.15.2022 task15.csproj.AssemblyReference.cache
+C:\Users\Hp\OneDrive\Desktop\c# task\15.15.2022 task15\15.15.2022 task15\obj\Debug\netcoreapp3.1\15.15.2022 task15.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp\OneDrive\Desktop\c# task\15.15.2022 task15\15.15.2022 task15\obj\Debug\netcoreapp3.1\15.15.2022 task15.AssemblyInfoInputs.cache
+C:\Users\Hp\OneDrive\Desktop\c# task\15.15.2022 task15\15.15.2022 task15\obj\Debug\netcoreapp3.1\15.15.2022 task15.AssemblyInfo.cs
+C:\Users\Hp\OneDrive\Desktop\c# task\15.15.2022 task15\15.15.2022 task15\obj\Debug\netcoreapp3.1\15.15.2022 task15.csproj.CoreCompileInputs.cache
